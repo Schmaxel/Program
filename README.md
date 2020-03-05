@@ -1,2 +1,2 @@
-# Program
--- Pokemon Battle in JAVA --
+# Pokemon Battle in Java
+-- Program --
